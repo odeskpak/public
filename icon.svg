@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Artwork" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 458.69 275.25">
+  <defs>
+    <style>
+      .cls-blue { fill: #004ee3; }
+      .cls-white { fill: #ffffff; }
+      .cls-bg { fill: #1a1a1a; }
+    </style>
+  </defs>
+  <rect class="cls-bg" x="0" y="0" width="458.69" height="275.25"/>
+  <rect class="cls-blue" x="83.39" y="0" width="83.39" height="95.93"/>
+  <rect class="cls-blue" x="83.39" y="179.32" width="83.39" height="95.93"/>
+  <rect class="cls-blue" x="0" y="95.93" width="83.39" height="83.39"/>
+  <polygon class="cls-white" points="458.69 179.32 458.69 95.93 303.51 95.93 384.94 0 283.72 0 166.79 137.78 283.47 275.25 384.67 275.25 303.37 179.45 303.37 179.32 458.69 179.32"/>
+</svg>
